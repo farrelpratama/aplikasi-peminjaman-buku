@@ -1,0 +1,20 @@
+[
+    {
+        "name": "admin",
+        "email":"admin@mail.com",
+        "password":"sayaadminnyalohya",
+        "role":"admin"
+    },
+    {
+        "name": "fuad",
+        "role": "user",
+        "email": "fuad@mail.com",
+        "password": "fuad123"
+    },
+    {
+        "name": "feroz",
+        "role": "user",
+        "email": "feroz@mail.com",
+        "password": "123"
+    }
+]
