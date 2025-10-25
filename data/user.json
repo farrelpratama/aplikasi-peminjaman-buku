@@ -1,0 +1,9 @@
+[
+    {
+        "user_id": 1,
+        "name": "dummyuser",
+        "email":"dummyuser@mail.com",
+        "password":"dummypass",
+        "books_borrowed":[]
+    }
+]
